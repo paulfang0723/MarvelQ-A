@@ -13,6 +13,7 @@
 		DAA2309C2599F5AC0009FA02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAA2309A2599F5AC0009FA02 /* Main.storyboard */; };
 		DAA2309E2599F5AE0009FA02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAA2309D2599F5AE0009FA02 /* Assets.xcassets */; };
 		DAA230A12599F5AE0009FA02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAA2309F2599F5AE0009FA02 /* LaunchScreen.storyboard */; };
+		DAA230AA2599FD110009FA02 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAA230A92599FD110009FA02 /* Question.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DAA2309D2599F5AE0009FA02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DAA230A02599F5AE0009FA02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DAA230A22599F5AE0009FA02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAA230A92599FD110009FA02 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DAA230942599F5AC0009FA02 /* AppDelegate.swift */,
 				DAA230962599F5AC0009FA02 /* SceneDelegate.swift */,
 				DAA230982599F5AC0009FA02 /* ViewController.swift */,
+				DAA230A92599FD110009FA02 /* Question.swift */,
 				DAA2309A2599F5AC0009FA02 /* Main.storyboard */,
 				DAA2309D2599F5AE0009FA02 /* Assets.xcassets */,
 				DAA2309F2599F5AE0009FA02 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DAA230992599F5AC0009FA02 /* ViewController.swift in Sources */,
+				DAA230AA2599FD110009FA02 /* Question.swift in Sources */,
 				DAA230952599F5AC0009FA02 /* AppDelegate.swift in Sources */,
 				DAA230972599F5AC0009FA02 /* SceneDelegate.swift in Sources */,
 			);
